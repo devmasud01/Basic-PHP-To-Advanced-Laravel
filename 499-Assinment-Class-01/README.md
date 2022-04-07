@@ -17,16 +17,29 @@
 <details>
   <summary>Click Me</summary>
   
-  #### IDE / Code Editor
+### IDE / Code Editor
      * Vs Code Downloads 
      * Vs Code Editor keyboard shortcuts
      * Important Package installation 
 </details>
 
-####  Resources
+###  Resources
 <details>
   <summary>Click Me</summary>
   
 <p> From the very beginning, we have to know about git & github to showcase our daily practiceand work for future use.
 And secondly we have to know about vs keyboard shortcuts to save our time in coding, and install essential packages for extra facilities in vs code </p>
+Git bash Downloads - https://git-scm.com/downloads 
+
+Create your github account - https://github.com/ 
+
+Create project Local to Online - https://github.com/rafiswe/Github-Tutorial/blob/master/Create-local-to-online.txt
+
+Create Project Online - https://github.com/rafiswe/Github-Tutorial/blob/master/Create-online-repository.txt
+
+Vs Code Downloads - https://code.visualstudio.com/download 
+
+Vs Code Editor keyboard shortcuts -  https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf 
+
+Important Package installation
 </details>

@@ -29,7 +29,7 @@
 
  https://www.javatpoint.com/php-do-while-loop 
 
-Exercises: https://codeforwin.org/2015/06/for-do-while-loop-programming-exercises.html 
+* Exercises: https://codeforwin.org/2015/06/for-do-while-loop-programming-exercises.html 
 
 * Foreach
 

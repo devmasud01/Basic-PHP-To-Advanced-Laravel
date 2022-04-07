@@ -22,3 +22,11 @@
      * Vs Code Editor keyboard shortcuts
      * Important Package installation 
 </details>
+
+####  Resources
+<details>
+  <summary>Click Me</summary>
+  
+<p> From the very beginning, we have to know about git & github to showcase our daily practiceand work for future use.
+And secondly we have to know about vs keyboard shortcuts to save our time in coding, and install essential packages for extra facilities in vs code </p>
+</details>

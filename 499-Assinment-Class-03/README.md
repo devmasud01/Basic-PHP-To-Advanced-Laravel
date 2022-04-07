@@ -1,2 +1,56 @@
-# Basic-PHP-To-Advanced-Laravel
-A PHP developer works as part of a team in programming applications that are often web-based for clients. Key duties of this role include the writing of PHP scripts and coding to create or modify software and applications according to a clients needs. Other tasks also include troubleshooting any errors or issues relating to PHP programs and creating documentation for the same. The career advancements for PHP developers include promotions to a senior position, managerial roles such as a software development manager or directorial roles such as an information technology director.
+# Operators and Statement
+
+### Operators and its types in php
+<details>
+  <summary>Click Me</summary>
+
+### Operators and its types in php
+
+* Arithmetic (গাণিতিক অপারেটর) 
+    + ,  - ,  * ,  / ,  % (Modulus),  ** (Exponentiation)
+* Assignment (নির্ধারণ অপারেটর)
+    =, +=, -=, *=, /=
+* Comparison (তুলনা)    
+    ==, !=, ===, !==, < (less), > (greater), <=, >=
+* Increment / decrement
+    ++a, a++, --a, a-- 
+* Logical and others
+    !, &&, || 
+</details>
+
+### Statements
+<details>
+  <summary>Click Me</summary>
+
+### Statements
+
+ * If
+ * Else
+ * Else if
+ * Switch
+ </details>
+
+### Resources
+<details>
+  <summary>Click Me</summary>
+
+### Operators and its types in php
+
+  * Arithmetic (গাণিতিক অপারেটর) 
+          -R Link: https://www.javatpoint.com/php-operators#Arithmetic 
+  * Assignment (নির্ধারণ অপারেটর)
+          -R Link: https://www.javatpoint.com/php-operators#Assignment 
+  * Comparison (তুলনা)
+          -R Link: https://www.javatpoint.com/php-operators#Comparison 
+  * Increment / decrement
+          -R Link: https://www.php.net/manual/en/language.operators.increment.php 
+ *  Logical and others
+          -R Link: https://www.javatpoint.com/php-operators#Logical  
+
+### Statement
+* If
+* Else
+* Else if
+* Switch          
+
+</details>

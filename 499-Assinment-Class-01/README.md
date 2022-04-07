@@ -41,26 +41,16 @@ Vs Code Downloads - https://code.visualstudio.com/download
 
 Vs Code Editor keyboard shortcuts -  https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf 
 
-###Important Package installation
-Important Package installation
-
-Html snippet
-
-Html css support
-
-Intellisense for css class names in html
-
-Auto close tag
-
-Auto rename tag
-
-Beautify
-
-Bracket pair colorizer
-
-Php intellisense
-
-Php namespace resolver
-
-Alignment
 </details>
+
+###  Important Package installation
+* Html css support
+* Intellisense for css class names in html
+* Auto close tag
+* Auto rename tag
+* Html snippet
+* Beautify
+* Bracket pair colorizer
+* Php intellisense
+* Php namespace resolver
+* Alignmen

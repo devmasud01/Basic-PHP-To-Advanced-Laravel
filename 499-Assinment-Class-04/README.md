@@ -1,2 +1,36 @@
-# Basic-PHP-To-Advanced-Laravel
-A PHP developer works as part of a team in programming applications that are often web-based for clients. Key duties of this role include the writing of PHP scripts and coding to create or modify software and applications according to a clients needs. Other tasks also include troubleshooting any errors or issues relating to PHP programs and creating documentation for the same. The career advancements for PHP developers include promotions to a senior position, managerial roles such as a software development manager or directorial roles such as an information technology director.
+# Loop (4)
+<details>
+  <summary>Click Me</summary>
+
+* Operator: Increment (++) and Decrement (--)
+* For Loop
+* While loop
+* Do while
+* Foreach
+</details>
+
+### Resources
+<details>
+<summary>Click Me</summary>
+* Operator: Increment (++) and Decrement (--)
+
+https://www.php.net/manual/en/language.operators.increment.php 
+
+* For Loop
+
+https://www.javatpoint.com/php-for-loop 
+
+* While loop
+
+https://www.javatpoint.com/php-while-loop 
+
+* Do while
+
+https://www.javatpoint.com/php-do-while-loop 
+
+Exercises: https://codeforwin.org/2015/06/for-do-while-loop-programming-exercises.html 
+
+* Foreach
+
+https://www.javatpoint.com/php-foreach-loop 
+</details>

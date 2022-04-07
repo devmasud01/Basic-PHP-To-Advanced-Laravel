@@ -57,7 +57,7 @@ Power of php
   
 <p>Please search by keyword which is given on overview and know more from google. Here is just the w3school link. You can learn more from javatpoint, tutorialspoint etc.</p>
 <details>
-  <summary>Click Me</summary>
+  <summary>Show More</summary>
 
 ### 1. 
 * A variable starts with the $ sign, followed by the name of the variable

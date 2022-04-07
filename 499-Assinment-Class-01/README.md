@@ -13,10 +13,9 @@
 
 # A collapsible section with markdown
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Click Me</summary>
   
-  ## Heading
-  1. Github
+  #### 1. Github
      * What is Git & Github 
      * Why need Git & Github 
      * Git bash Downloads & Installation 

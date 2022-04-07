@@ -15,23 +15,23 @@
 
 * Operator: Increment (++) and Decrement (--)
 
- https://www.php.net/manual/en/language.operators.increment.php 
+ R-Link: https://www.php.net/manual/en/language.operators.increment.php 
 
 * For Loop
 
- https://www.javatpoint.com/php-for-loop 
+ R-Link: https://www.javatpoint.com/php-for-loop 
 
 * While loop
 
- https://www.javatpoint.com/php-while-loop 
+ R-Link: https://www.javatpoint.com/php-while-loop 
 
 * Do while
 
- https://www.javatpoint.com/php-do-while-loop 
+ R-Link: https://www.javatpoint.com/php-do-while-loop 
 
-* Exercises: https://codeforwin.org/2015/06/for-do-while-loop-programming-exercises.html 
+* Exercises: R-Link: https://codeforwin.org/2015/06/for-do-while-loop-programming-exercises.html 
 
 * Foreach
 
- https://www.javatpoint.com/php-foreach-loop 
+ R-Link: https://www.javatpoint.com/php-foreach-loop 
 </details>

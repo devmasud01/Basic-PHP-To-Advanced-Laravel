@@ -4,7 +4,7 @@
 <details>
   <summary>Click Me</summary>
 
-  #### Github
+  ### Github
      * What is Git & Github 
      * Why need Git & Github 
      * Git bash Downloads & Installation 
@@ -13,7 +13,7 @@
      * Create Project Online 
 </details>
 
-#### 2. IDE / Code Editor
+### 2. IDE / Code Editor
 <details>
   <summary>Click Me</summary>
   
@@ -44,6 +44,9 @@ Vs Code Editor keyboard shortcuts -  https://code.visualstudio.com/shortcuts/key
 </details>
 
 ###  Important Package installation
+<details>
+  <summary>Click Me</summary>
+
 * Html css support
 * Intellisense for css class names in html
 * Auto close tag
@@ -54,3 +57,5 @@ Vs Code Editor keyboard shortcuts -  https://code.visualstudio.com/shortcuts/key
 * Php intellisense
 * Php namespace resolver
 * Alignmen
+
+</details>

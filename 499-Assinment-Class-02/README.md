@@ -6,9 +6,9 @@
   <summary>Click Me</summary>
 
 ### 1. PHP Language
-History of php
-How does php work
-Power of php
+* History of php
+* How does php work
+* Power of php
 </details>
 
 ### 2. Environment setup, Code Structure & Run Code

@@ -1,2 +1,27 @@
-# Basic-PHP-To-Advanced-Laravel
-A PHP developer works as part of a team in programming applications that are often web-based for clients. Key duties of this role include the writing of PHP scripts and coding to create or modify software and applications according to a clients needs. Other tasks also include troubleshooting any errors or issues relating to PHP programs and creating documentation for the same. The career advancements for PHP developers include promotions to a senior position, managerial roles such as a software development manager or directorial roles such as an information technology director.
+# Keyword, Array
+<details>
+  <summary>Click Me</summary>
+
+* Keyword: break, continue
+* Indexed array
+* Associative array
+* Multidimensional array
+</details>
+
+<details>
+  <summary>Click Me</summary> 
+  
+* Break, continue keyword
+R-Link: https://www.javatpoint.com/php-break
+R-Link: https://www.javatpoint.com/php-continue 
+
+* Indexed array
+R-Link: https://www.javatpoint.com/php-indexed-array 
+
+* Associative array
+R-Link: https://www.javatpoint.com/php-associative-array 
+
+* Multidimensional array
+R-Link: https://www.javatpoint.com/php-multidimensional-array 
+</details>
+

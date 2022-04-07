@@ -1,10 +1,9 @@
 
 # Introduction About Github and Code Editor
-#### GitHub
+#### 1. GitHub
 <details>
   <summary>Click Me</summary>
-  
-  #### 1. Github
+  #### Github
      * What is Git & Github 
      * Why need Git & Github 
      * Git bash Downloads & Installation 

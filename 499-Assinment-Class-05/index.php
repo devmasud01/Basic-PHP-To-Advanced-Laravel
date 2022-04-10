@@ -16,3 +16,15 @@ foreach ($array as $key => $mixval) {
 } 
 
 echo "<h2>Ans To The Ques. No- Two</h2>";
+
+$products =[
+    $realmi_9i =[4, 64, 5000, 18774],
+    $motorola_g60 =[6, 128, 5000, 28774],
+    $oppo_a16 =[4, 64, 6000, 16999],
+    $vivo_y21 =[4, 64,5000, 15999],
+    $poco_m3 =[6, 128,5000, 17999],
+    $motorola_edge =[8, 128,5000, 37999],
+
+];
+echo " <h3> A multidimensional array is an array containing one or more arrays. This arry contain 5 single arrays for this reason it is a multidimensional array.
+</h3>";

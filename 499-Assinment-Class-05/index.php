@@ -56,7 +56,7 @@ foreach ($array as $key => $value) {
        $maxValue =$value;
     }
 }
-echo $maxValue; #Answer_Done
+echo "The maximum value of the array is-" . $maxValue; #Answer_Done
 
 
 
@@ -66,7 +66,7 @@ echo $maxValue; #Answer_Done
 echo "<h2>Ans To The Ques. No- Four</h2>";
 $array =[0, 10, 80, 67, 60, 89, 91, 56, 45, 30, 95, 83, 99];
 foreach ($array as $key => $value) {
-    if ($key+=3) {
+    if ($key=$key+2) {
         echo $value;
     }
     else {

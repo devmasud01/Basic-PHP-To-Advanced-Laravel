@@ -57,3 +57,20 @@ foreach ($array as $key => $value) {
     }
 }
 echo $maxValue; #Answer_Done
+
+
+
+
+
+#--------------4---------------------
+echo "<h2>Ans To The Ques. No- Four</h2>";
+$array =[0, 10, 80, 67, 60, 89, 91, 56, 45, 30, 95, 83, 99];
+foreach ($array as $key => $value) {
+    if ($key+=3) {
+        echo $value;
+    }
+    else {
+       continue;
+    }
+}
+

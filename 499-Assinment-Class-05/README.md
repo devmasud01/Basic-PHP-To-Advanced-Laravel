@@ -1,9 +1,9 @@
 # Keyword, Array
 ### Overview
 <details>
-  <summary>Click Me</summary>
+  <summary>Click Me</summary> 
 
-* Keyword: break, continue
+* Keyword: break,continue  
 * Indexed array
 * Associative array
 * Multidimensional array

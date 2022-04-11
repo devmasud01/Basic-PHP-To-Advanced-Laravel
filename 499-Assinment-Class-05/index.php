@@ -13,10 +13,11 @@ foreach ($array as $key => $mixval) {
         continue;
     }
     else {
-        echo "$mixval -- is a Prime Number"; #Answer_Done_Part_2
+        echo "$mixval -- is a Prime Number"; 
         "<br>";
     }  
 } 
+#Answer_Done_Part_2
 
 
 
@@ -36,7 +37,8 @@ $products =[
 
 ];
 echo " <h3> A multidimensional array is an array containing one or more arrays. This arry contain 5 single arrays for this reason it is a multidimensional array.
-</h3>"; #Answer_Done
+</h3>"; 
+#Answer_Done
 
 
 
@@ -56,7 +58,8 @@ foreach ($array as $key => $value) {
        $maxValue =$value;
     }
 }
-echo "The maximum value of the array is-" . $maxValue; #Answer_Done
+echo "The maximum value of the array is-" . $maxValue; 
+#Answer_Done
 
 
 

@@ -64,13 +64,15 @@ echo "The maximum value of the array is-" . $maxValue; #Answer_Done
 
 #--------------4---------------------
 echo "<h2>Ans To The Ques. No- Four</h2>";
+
 $array =[0, 10, 80, 67, 60, 89, 91, 56, 45, 30, 95, 83, 99];
 foreach ($array as $key => $value) {
-    if ($key=$key+2) {
-        echo $value;
-    }
-    else {
-       continue;
-    }
+       if ($key%2==0) {
+          echo $value . "<br>";
+       }
+       else {
+           continue;
+       }
 }
+#Answer_Done
 

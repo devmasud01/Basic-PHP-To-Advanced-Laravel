@@ -70,4 +70,4 @@
         $age = date_diff(date_create($dob), date_create($now));
         return($age->format("%y"));
     }
-   echo ageCalc("17-10-1998");
+   echo ageCalc("27-09-2001");

@@ -2,7 +2,7 @@
 # Introduction About Github and Code Editor
 ### 1. GitHub
 <details>
-  <summary>Click Me</summary>
+ <summary>Click Me</summary> 
 
   ### Github
      * What is Git & Github 
@@ -52,6 +52,6 @@ And secondly we have to know about vs keyboard shortcuts to save our time in cod
 * Bracket pair colorizer
 * Php intellisense
 * Php namespace resolver
-* Alignmen
+* Alignmen .
 
 </details>

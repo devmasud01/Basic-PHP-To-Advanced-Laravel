@@ -1,81 +1,64 @@
 <?php
 
+if($_POST!=null)
+{
+    $h=empty($_POST["height"]) ? 0 : $_POST["height"];
+    $w=empty($_POST["weight"]) ? 0 : $_POST["weight"];
+    $index =0;
+    if($h !=0 && $w !=0)
+        $index = round($w/($h*$h)* 703,2);
 
-
-        #---------------1---------------
-echo "<h2>Ans To The Ques. No- One</h2>";
-echo "<h3>We know the array which is represent by an index number by default, which starts from 0 is called index array. This is an indexed array. PHP indexed array is also known as numeric array.</h3>"; #Answer_Done_Part_1
-
-$array = [12, 34, 2, 6, 78];
-
-foreach ($array as $key => $mixval) {
-    if ($mixval%2==0  && $mixval>2) {
-        continue;
-    }
-    else {
-        echo "$mixval -- is a Prime Number"; 
-        "<br>";
-    }  
-} 
-#Answer_Done_Part_2
-
-
-
-
-
-
-     #---------------2---------------
-echo "<h2>Ans To The Ques. No- Two</h2>";
-
-$products =[
-    $realmi_9i =[4, 64, 5000, 18774],
-    $motorola_g60 =[6, 128, 5000, 28774],
-    $oppo_a16 =[4, 64, 6000, 16999],
-    $vivo_y21 =[4, 64,5000, 15999],
-    $poco_m3 =[6, 128,5000, 17999],
-    $motorola_edge =[8, 128,5000, 37999],
-
-];
-echo " <h3> A multidimensional array is an array containing one or more arrays. This arry contain 5 single arrays for this reason it is a multidimensional array.
-</h3>"; 
-#Answer_Done
-
-
-
-
-
-
-
-   #----------3-------------
-echo "<h2>Ans To The Ques. No- Three</h2>";
-
-$array = [0, 10, 80, 67, 60, 89, 91, 56, 45, 30, 95, 83, 99];
-#Suppose,
-$maxValue = 0;
-#Now,
-foreach ($array as $key => $value) {
-    if ($value > $maxValue) {
-       $maxValue =$value;
+    $bmi="";
+    $bmiStyle="alert alert-primary";
+    if ($index < 18.5) {
+        $bmi="underweight - BMI : " . $index;
+        $bmiStyle="alert alert-secondary";
+    } else if ($index < 25) {
+        $bmi="normal - BMI : ". $index;
+        $bmiStyle="alert alert-success";
+    } else if ($index < 30) {
+        $bmi="overweight - BMI : " . $index;  
+        $bmiStyle="alert alert-warning";
+    } else {
+        $bmi="obese - BMI : " .$index;  
+        $bmiStyle="alert alert-danger";
     }
 }
-echo "The maximum value of the array is-" . $maxValue; 
-#Answer_Done
 
+?>
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title> CODE4EXAMPLE </title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+</head>
 
-
-
-
-#--------------4---------------------
-echo "<h2>Ans To The Ques. No- Four</h2>";
-
-$array =[0, 10, 80, 67, 60, 89, 91, 56, 45, 30, 95, 83, 99];
-foreach ($array as $key => $value) {
-       if ($key%2==0) {
-          echo $value . "<br>";
-       }
-       else {
-           continue;
-       }
-}
-#Answer_Done
-
+	<body>
+        <div class="container">
+            <h1>PHP BODY MASS INDEX (BMI)</h1>
+            <form method="post">
+                <div class="form-group">
+                  <label for="height">Please Enter your Height in Inches :</label>
+                  <input type="text" class="form-control" name="height" placeholder="69">
+                </div>
+                <div class="form-group">
+                  <label for="weight">Please Enter your weight in Pounds :</label>
+                  <input type="text" class="form-control"  name="weight" placeholder="150">
+                </div>
+                <div class="form-group">
+                  <button type="submit" class="btn btn-success">Calculate</button>
+                </div>
+              </form>
+              <div class="<?=$bmiStyle?>" role="alert" id="bmi">
+                <?php 
+                echo $bmi;
+                ?>
+            </div>
+          </div>  
+    
+   
+</body>
+</html>

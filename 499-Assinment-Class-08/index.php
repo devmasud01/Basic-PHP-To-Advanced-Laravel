@@ -68,6 +68,6 @@
         $dob = ($dateOfBirth);
         $now = date("Y-m-d");
         $age = date_diff(date_create($dob), date_create($now));
-        return($age->format("%y"));
+        return($age->format("%y-%m-%d"));
     }
    echo ageCalc("27-09-2001");
